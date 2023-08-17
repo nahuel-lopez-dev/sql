@@ -138,7 +138,7 @@
 
 ### **`Menciones:`**
 
-#### El material sigue en proceso porque voy a ir generando otros ejemplos y agregando más contenidos, pero hasta el día de hoy gran parte es del curso de Código Facilito a quién hago mención en este README, agradezco enormemente los contenidos brindados y lo recomiendo.
+#### El material sigue en proceso porque voy a ir generando otros ejemplos y agregando más contenidos. Contiene ejemplos del curso de bases de datos de Código Facilito, Databoosters, MiduDev, entre otros.
 
 #### Ejemplos vistos a lo largo del __Curso Profesional de Base de Datos en Código Facilito__
 
