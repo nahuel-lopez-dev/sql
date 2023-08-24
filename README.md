@@ -140,6 +140,18 @@ Se utilizan distintas bases de datos según la práctica.
       - employees
       </details>
 
+### Para utilizar employees:
+
+#### --> Link al GitHub para descargar: [test_db_master]
+
+[test_db_master]: <https://github.com/datacharmer/test_db>
+
+Luego de descargarlo, desde la terminal:
+  
+  - `cd ... directorio de test_db_master`
+
+  - `mysql -uroot -p < employees.sql`
+
 ### **`Version 1.0.0:`**
 
 - Para trabajar las bases de datos SQL se utilizó el gestor de MySQL.
