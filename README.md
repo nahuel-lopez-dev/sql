@@ -122,6 +122,24 @@
       - fdadfafd
       </details>
   
+### *Prácticas:*
+Se utilizan distintas bases de datos según la práctica. 
+  - **SQL para principiantes: consultas**
+    <details>
+      <summary>Utiliza como DB:</summary>
+      
+      - consultas
+      </details>
+      <br>
+  - **Databoosters**
+    <details>
+      <summary>Utiliza las siguientes DB:</summary>
+      
+      - numpidb
+      - world
+      - employees
+      </details>
+
 ### **`Version 1.0.0:`**
 
 - Para trabajar las bases de datos SQL se utilizó el gestor de MySQL.
@@ -138,7 +156,8 @@
 
 ### **`Menciones:`**
 
-#### El material sigue en proceso porque voy a ir generando otros ejemplos y agregando más contenidos. Contiene ejemplos del curso de bases de datos de Código Facilito, Databoosters, MiduDev, entre otros.
+#### El material sigue en proceso porque voy a ir generando otros ejemplos y agregando más contenidos. Contiene ejemplos del curso de bases de datos de Código Facilito, Databoosters, MiduDev, Gabriel Moroni, entre otros.
+#### Todos los cursos o autores mencionados fueron súper valiosos para mi aprendizaje en SQL y por eso los recomiendo ampliamente. Algunos son gratuitos y otros de pago, pero realmente valen la pena. 
 
 #### Ejemplos vistos a lo largo del __Curso Profesional de Base de Datos en Código Facilito__
 
@@ -151,6 +170,29 @@
 #### --> Link de su GitHub: [GitHub_Eduardo]
 
 [github_eduardo]: <https://github.com/eduardogpg>
+
+--------------
+#### Ejemplos vistos a lo largo del __Curso de SQL de DataBoosters__
+
+#### --> Link del [curso_db]
+
+[curso_db]: <https://www.udemy.com/course/sql-desde-cero-curso-practico/?kw=consultas+en+sql&src=sac>
+
+#### **Profesor:** *Jorge Alberto Chavez Sarmiento*
+
+---------------------
+#### Ejemplos vistos a lo largo del __SQL para principiantes: curso práctico__
+
+#### --> Link del [curso_db]
+
+[curso_db]: <https://www.udemy.com/course/sql-para-principiantes-curso-practico/?kw=sql+para+principiantes&src=sac>
+
+#### **Profesor:** *Gabriel Moroni*
+
+#### --> Link a su BIO: [Bio_Gabriel]
+
+[Bio_Gabriel]: <https://bio.link/codercave?s=08>
+--------------
 
   <!-- Hecho con amor -->
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Nahuel-Devone/)
